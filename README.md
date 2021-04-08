@@ -16,7 +16,7 @@ You may subscribe to the mailing list https://lists.lut.fi/sympa/subscribe/dbedu
 ## Events
 
 ### Next event
-The next webinar event will be in Q1 2021 (Jan-Feb).
+The next webinar event will be in Q2 2021 (April - May).
 
 ### Upcoming webinar themes
 According to the survey arranged at the first online meeting, main participant interests are as listed below (in order of priority). The webinar themes will concentrate around these themes.
