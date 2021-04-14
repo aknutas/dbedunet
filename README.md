@@ -14,9 +14,7 @@ The main communication channel currently is a shared mailing list and Zoom webin
 You may subscribe to the mailing list https://lists.lut.fi/sympa/subscribe/dbedunet .
 
 ## Events
-
-### Next event
-The next webinar event will be in Q2 2021 (April - May).
+We aim to have events quarterly. You can see upcoming events and link to registration at https://github.com/aknutas/dbedunet/wiki/Upcoming-events . 
 
 ### Upcoming webinar themes
 According to the survey arranged at the first online meeting, main participant interests are as listed below (in order of priority). The webinar themes will concentrate around these themes.
